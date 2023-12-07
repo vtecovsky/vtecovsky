@@ -1,8 +1,6 @@
 
 # Hi there 👋, my name is Saveliy
 
----
-
 ### About me:
 
  
