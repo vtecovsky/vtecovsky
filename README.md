@@ -4,7 +4,7 @@
 ### About me:
 
  
-I`m Python/Go backend developer with expertise in designing, developing and maintaining web applications. Strong problem-solving skills and ability to work collaboratively in a team environment.
+I`m Go backend developer with expertise in designing, developing and maintaining web applications. Strong problem-solving skills and ability to work collaboratively in a team environment.
 
 ### Communication: [![Telegram Badge](https://img.shields.io/badge/-flakexdd-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/flakexdd)
 ---
